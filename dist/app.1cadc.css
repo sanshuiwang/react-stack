@@ -1,0 +1,19 @@
+.page-box{
+  border: 1px solid red;
+  -webkit-transform: translate(1%,1%);
+          transform: translate(1%,1%);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.main {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  background: green;
+  width: 200px; }
+  .main .content {
+    color: red; }
+  .main img {
+    width: 100px; }
+
+/*# sourceMappingURL=app.1cadc.css.map*/
